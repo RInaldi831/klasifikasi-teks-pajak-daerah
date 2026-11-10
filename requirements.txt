@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+safetensors
+pymupdf
+numpy
+pandas
+scikit-learn
