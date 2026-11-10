@@ -1,6 +1,6 @@
 streamlit
 torch
-transformers
+transformers==4.57.6
 safetensors
 pymupdf
 numpy
